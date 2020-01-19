@@ -4,6 +4,7 @@
   "description": "nightwatch end-to-end test automation boilerplate project. Using commonjs and assert.",
   "scripts": {
     "test": "npx nightwatch",
+    "test-ci": "npx nightwatch -c nightwatch-ci.json",
     "lint": "npx eslint --ext .js ./ --fix"
   },
   "keywords": [
