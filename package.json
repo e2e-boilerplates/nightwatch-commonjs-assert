@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "nightwatch end-to-end test automation boilerplate project. Using commonjs and assert.",
   "scripts": {
+    "lint": "npx eslint --ext .js ./ --fix",
     "test": "npx nightwatch",
-    "test-ci": "npx nightwatch -c nightwatch-ci.json",
-    "lint": "npx eslint --ext .js ./ --fix"
+    "test-ci": "npx nightwatch -c nightwatch-ci.json"
   },
   "keywords": [
     "nightwatch",
