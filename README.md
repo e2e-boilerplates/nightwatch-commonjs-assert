@@ -2,7 +2,8 @@
   # Nightwatch Boilerplate
   Nightwatch end-to-end test automation boilerplate, using Commonjs and Assert.
   ## Getting Started
-  	 git clone git@github.com:e2e-boilerplate/nightwatch-commonjs-assert.git 
-	 cd nightwatch-commonjs-assert 
-	 npm install 
-	 npm run test 
+  	 git clone git@github.com:e2e-boilerplate/nightwatch-commonjs-assert.git
+    	 cd nightwatch-commonjs-assert
+    	 npm install
+    	 npm run test
+    
