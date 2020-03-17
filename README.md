@@ -1,4 +1,4 @@
-[![GitHub Actions status | e2e-boilerplate/nightwatch-commonjs-assert](https://github.com/e2e-boilerplate/nightwatch-commonjs-assert/workflows/nightwatch-commonjs-assert/badge.svg)](https://github.com/e2e-boilerplate/nightwatch-commonjs-assert/actions?workflow=nightwatch-commonjs-assert)
+[![GitHub Actions status | e2e-boilerplate/nightwatch-commonjs-assert](https://github.com/e2e-boilerplate/nightwatch-commonjs-assert/workflows/nightwatch-commonjs-assert/badge.svg)](https://github.com/e2e-boilerplate/nightwatch-commonjs-assert/actions?workflow=nightwatch-commonjs-assert) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     
 # Nightwatch Boilerplate
     
