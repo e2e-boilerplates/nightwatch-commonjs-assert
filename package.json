@@ -1,8 +1,9 @@
 {
-  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "author": "",
   "bugs": {
     "url": "https://github.com/e2e-boilerplate/nightwatch-commonjs-assert/issues"
   },
+  "dependencies": {},
   "description": "Nightwatch end-to-end test automation boilerplate. using Commonjs and Assert.",
   "devDependencies": {
     "chromedriver": "80.0.1",
@@ -24,12 +25,7 @@
   },
   "keywords": [
     "assert",
-    "boilerplate",
     "commonjs",
-    "e2e",
-    "e2e tests",
-    "example",
-    "integration test",
     "nightwatch"
   ],
   "license": "MIT",
@@ -48,6 +44,5 @@
     "test": "npx nightwatch",
     "test:ci": "npx nightwatch -c nightwatch-ci.json"
   },
-  "version": "1.0.0",
-  "dependencies": {}
+  "version": "1.0.0"
 }
