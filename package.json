@@ -4,7 +4,7 @@
     "url": "https://github.com/e2e-boilerplate/nightwatch-commonjs-assert/issues"
   },
   "dependencies": {
-    "chromedriver": "85.0.0",
+    "chromedriver": "85.0.1",
     "nightwatch": "1.5.0"
   },
   "description": "Nightwatch end-to-end test automation boilerplate. Using Commonjs and Assert.",
